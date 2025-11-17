@@ -1,0 +1,17 @@
+C:\longIT\chess\GAMECARO\bin\Debug\net8.0-windows\Client.exe
+C:\longIT\chess\GAMECARO\bin\Debug\net8.0-windows\Client.deps.json
+C:\longIT\chess\GAMECARO\bin\Debug\net8.0-windows\Client.runtimeconfig.json
+C:\longIT\chess\GAMECARO\bin\Debug\net8.0-windows\Client.dll
+C:\longIT\chess\GAMECARO\bin\Debug\net8.0-windows\Client.pdb
+C:\longIT\chess\GAMECARO\obj\Debug\net8.0-windows\Client.Forms.FormLogin.resources
+C:\longIT\chess\GAMECARO\obj\Debug\net8.0-windows\Client.Forms.FormMain.resources
+C:\longIT\chess\GAMECARO\obj\Debug\net8.0-windows\Client.csproj.GenerateResource.cache
+C:\longIT\chess\GAMECARO\obj\Debug\net8.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\longIT\chess\GAMECARO\obj\Debug\net8.0-windows\Client.AssemblyInfoInputs.cache
+C:\longIT\chess\GAMECARO\obj\Debug\net8.0-windows\Client.AssemblyInfo.cs
+C:\longIT\chess\GAMECARO\obj\Debug\net8.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\longIT\chess\GAMECARO\obj\Debug\net8.0-windows\Client.dll
+C:\longIT\chess\GAMECARO\obj\Debug\net8.0-windows\refint\Client.dll
+C:\longIT\chess\GAMECARO\obj\Debug\net8.0-windows\Client.pdb
+C:\longIT\chess\GAMECARO\obj\Debug\net8.0-windows\Client.genruntimeconfig.cache
+C:\longIT\chess\GAMECARO\obj\Debug\net8.0-windows\ref\Client.dll
